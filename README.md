@@ -1,2 +1,2 @@
 # TeoriasAprendizajeKS
-PaginaWeb_KellyDiaz_IGC
+PaginaDWeb_KellyDiaz_IGC
